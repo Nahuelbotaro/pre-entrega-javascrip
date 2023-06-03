@@ -50,7 +50,7 @@ const envio = () => {
     }
 }
 
-// envio()
+ envio()
 
 const metodoDePago = () => {
   let metodo = prompt("ingrese el metodo de pago, tarjeta o efectivo" )
